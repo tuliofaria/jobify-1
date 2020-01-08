@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Jobify is a sample job board for sites",
   "main": "index.js",
-  "author": "Hallan Christian",
+  "author": "Hallan Christian M A",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
